@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to DAlteks home on GitHub Pages.
+## There's nothing here yet, just the dafault markdown stuff... come back in a few months, maybe.
 
-You can use the [editor on GitHub](https://github.com/daltek/daltek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's possible to use the [editor on GitHub](https://github.com/daltek/daltek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
