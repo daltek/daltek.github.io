@@ -1,5 +1,5 @@
 ## Welcome to Dalteks home on GitHub Pages.
-## There's nothing here yet, just the dafault markdown stuff... come back in a few months, maybe.
+## There's nothing here yet, just the default markdown stuff... come back in a few months, maybe.
 
 It's possible to use the [editor on GitHub](https://github.com/daltek/daltek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
